@@ -1,2 +1,3 @@
 Hoy realizaremos la ultima practica de git 
-para continuar con python
+para continuar con python, creamos un carpeta llamada ultima parctica git, la abrimos en git bash y
+relaizamos todo lo que hemos visto en clase hasta el momento

@@ -1,1 +1,1 @@
-Hare un pequeño resumen de lo aprendido en el submodulo 
+Hare un pequeño resumen de lo aprendido en el submodulo, he aprendido a manejar git bash
